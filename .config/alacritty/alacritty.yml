@@ -1,0 +1,41 @@
+import:
+ - ~/.config/alacritty/themes/themes/cyber_punk_neon.yaml
+#blood moon
+
+font:
+  # Normal (roman) font face
+  normal:
+    Default:
+      family: Space Mono
+    style: Regular
+
+  # Bold font face
+  bold:
+    Default:
+      family: Space Mono 
+ 
+    style: Bold
+
+  # Italic font face
+  italic:
+    # Font family
+    Default:
+        family: Space Mono
+    
+    style: Italic
+
+  bold_italic:
+    Default:
+      family: Space Mono
+  
+    style: Bold Italic
+
+  # Point size
+  size: 10 
+
+window:
+    padding:
+      x: 18 
+      y: 18 
+
+      
